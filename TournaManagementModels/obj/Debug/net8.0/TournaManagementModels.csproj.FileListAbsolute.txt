@@ -1,0 +1,11 @@
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\bin\Debug\net8.0\TournaManagementModels.deps.json
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\bin\Debug\net8.0\TournaManagementModels.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\bin\Debug\net8.0\TournaManagementModels.pdb
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\TournaManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\TournaManagementModels.AssemblyInfoInputs.cache
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\TournaManagementModels.AssemblyInfo.cs
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\TournaManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\TournaManagementModels.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\refint\TournaManagementModels.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\TournaManagementModels.pdb
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementModels\obj\Debug\net8.0\ref\TournaManagementModels.dll
