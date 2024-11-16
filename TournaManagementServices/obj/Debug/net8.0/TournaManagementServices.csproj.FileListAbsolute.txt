@@ -1,0 +1,17 @@
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\bin\Debug\net8.0\TournaManagementServices.deps.json
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\bin\Debug\net8.0\TournaManagementServices.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\bin\Debug\net8.0\TournaManagementServices.pdb
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\bin\Debug\net8.0\TournaManagementData.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\bin\Debug\net8.0\TournaManagementModels.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\bin\Debug\net8.0\TournaManagementData.pdb
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\bin\Debug\net8.0\TournaManagementModels.pdb
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaManagementServices.csproj.AssemblyReference.cache
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaManagementServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaManagementServices.AssemblyInfoInputs.cache
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaManagementServices.AssemblyInfo.cs
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaManagementServices.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaMa.BD1030B8.Up2Date
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaManagementServices.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\refint\TournaManagementServices.dll
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\TournaManagementServices.pdb
+C:\Users\Enzo\source\repos\TournaManagementModels\TournaManagementServices\obj\Debug\net8.0\ref\TournaManagementServices.dll
